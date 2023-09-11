@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello1, Git!
 Hello1, Github!
 Hello1, GitHub Actions!
+=======
+Hello, Git!
+Hello, GitHub!
+Hello, GitHub Actions!
+>>>>>>> hotfix/case
